@@ -1,4 +1,4 @@
-#문제 설명
+# 문제 설명
 
 수많은 마라톤 선수들이 마라톤에 참여하였습니다. 단 한 명의 선수를 제외하고는 모든 선수가 마라톤을 완주하였습니다.
 
@@ -19,7 +19,8 @@
 | ["marina", "josipa", "nikola", "vinko", "filipa"] | ["josipa", "filipa", "marina", "nikola"] | "vinko" |
 | ["mislav", "stanko", "mislav", "ana"] | ["stanko", "ana", "mislav"] | "mislav"|
 
-#입출력 예 설명
+
+# 입출력 예 설명
 
 * 예제 #1
     * leo는 참여자 명단에는 있지만, 완주자 명단에는 없기 때문에 완주하지 못했습니다.
