@@ -8,10 +8,12 @@
 
 예를 들어, 다음과 같은 트리가 있다고 하자.
 
+![image](https://user-images.githubusercontent.com/35713051/171616981-c03aaaea-6583-414e-8dc9-3d8a51cce8a5.png)
 
 
 현재 리프 노드의 개수는 3개이다. (초록색 색칠된 노드) 이때, 1번을 지우면, 다음과 같이 변한다. 검정색으로 색칠된 노드가 트리에서 제거된 노드이다.
 
+![image](https://user-images.githubusercontent.com/35713051/171617013-c7e4ad13-6069-4919-af3d-6e24e710bdc6.png)
 
 
 이제 리프 노드의 개수는 1개이다.
